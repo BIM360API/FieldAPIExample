@@ -1,0 +1,11 @@
+C:\Git\Cassie\api\example\APIExample\obj\x86\Debug\APIExample.csprojResolveAssemblyReference.cache
+C:\Git\Cassie\api\example\APIExample\bin\Debug\APIExample.exe
+C:\Git\Cassie\api\example\APIExample\bin\Debug\APIExample.pdb
+C:\Git\Cassie\api\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.dll
+C:\Git\Cassie\api\example\APIExample\bin\Debug\Newtonsoft.Json.dll
+C:\Git\Cassie\api\example\APIExample\bin\Debug\RestSharp.dll
+C:\Git\Cassie\api\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+C:\Git\Cassie\api\example\APIExample\bin\Debug\Newtonsoft.Json.pdb
+C:\Git\Cassie\api\example\APIExample\bin\Debug\Newtonsoft.Json.xml
+C:\Git\Cassie\api\example\APIExample\obj\x86\Debug\APIExample.exe
+C:\Git\Cassie\api\example\APIExample\obj\x86\Debug\APIExample.pdb
